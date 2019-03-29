@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 赤松山志
-#+DATE: 2019-03-29 20:56:36.070236
+#+DATE: 2019-03-29 20:56:36.100339
 #+PROPERTY: ID KR2k0085
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 0
 <pb:KR2k0085_WYG_000-1a>¶
 　　欽定四庫全書　　　　史部十一¶
@@ -485,7 +485,7 @@
 然超乎㝠漠之無形而邈若昭彰之有騐第一位沖應¶
 真人第二位養素真人惟爾兄弟流芳史書石叱而能¶
 <pb:KR2k0085_WYG_000-23a>¶
-起成形丹存而尚留餘&KR0395;駕霧騰雲則若恍若惚祈晴¶
+起成形丹存而尚留餘𦦨駕霧騰雲則若恍若惚祈晴¶
 禱雨則隨感隨通至今寳積之祠起敬金華之地宜加¶
 徽號以稱真風¶
 ¶
